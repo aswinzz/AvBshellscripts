@@ -1,6 +1,6 @@
 #Welcome To AvB studios
 echo -e "
-\e[1m\e[33mAvB
+\e[1m\e[29mAvB
 =========\e[0m
 Helps You Solve Issues You Face While Using Linux. 
 
