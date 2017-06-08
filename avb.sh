@@ -1,3 +1,4 @@
+#!/bin/sh
 #Welcome To AvB studios
 echo -e "
 \e[1m\e[29mAvB
