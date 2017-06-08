@@ -1,3 +1,4 @@
+#!/bin/sh
 #Welcome To AvB studios
 echo -e "
 \e[4mSelect any options you need : \e[0m
