@@ -1,3 +1,4 @@
+#!/bin/sh
 #this is to enhance the Wireless Conection Detection in Linux
 echo -e "download the zip file and extract it in the desktop\n"
 gnome-open https://github.com/lwfinger/rtlwifi_new/tree/rock.new_btcoex
