@@ -1,3 +1,4 @@
+#!/bin/sh
 #this is to add a complete project to github
 echo -n "If You Havnt initialised your git with email and user name press 1 else press 2"
 read answer
