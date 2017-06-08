@@ -1,3 +1,4 @@
+#!/bin/sh
 #to Uninstall Application
 echo -n "Welcome To AVB Unninstall Mode"
 echo -n "Find The Exact Name Of The App You Want To uninstall"
